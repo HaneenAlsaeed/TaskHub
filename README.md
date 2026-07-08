@@ -1,5 +1,4 @@
 TaskHub — Where Team Chaos Becomes Clarity
-
 > "Half of a project's failures don't happen in the code — they happen in the communication gaps between the people writing it."
 
 That's the problem TaskHub was built to solve.
